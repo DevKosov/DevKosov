@@ -14,16 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working at [LYNKX](https://lynkx.eu) as a full-stack developer.
-- 🌱 I’m currently learning on how to break a monolith application in to a microservice architecture with (laravel, RabbitMQ, docker & kubernetes).
-- 📫 How to reach me: altin_rrahmani@live.com
-- ⚡ Fun fact: 
 
 <h1 align="center">Hi 👋, I'm Altin</h1>
 <h3 align="center">A junior Full-Stack Developer</h3>
 
-- 🔭 I’m currently working at **Lynkx**
-
+- 🔭 I’m currently working at **[LYNKX](https://lynkx.eu)** as a full-stack developer.
+- 🌱 I’m currently learning on how to break a monolith application in to a microservice architecture with (laravel, RabbitMQ, docker & kubernetes).
 - 📫 How to reach me **altin_rrahmani@live.com**
 
 <h3 align="left">Connect with me:</h3>
