@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working at [LYNKX](https://lynkx.eu) as a full-stack developer.
+- 🌱 I’m currently learning on how to break a monolith application in to a microservice architecture with (laravel, RabbitMQ, docker & kubernetes).
+- 📫 How to reach me: altin_rrahmani@live.com
+- ⚡ Fun fact: 
