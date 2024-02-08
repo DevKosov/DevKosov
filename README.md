@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Altin from Kosovo<br><br>- 🔭 I’m working as a full stack developer at <strong><a href="https://lynkx.eu">LYNKX</a></strong><br>- 📚 I’m currently learning on how to break a monolith application in to a microservice architecture with (laravel, RabbitMQ, docker & kubernetes).<br>- ⚡ In my free time i make landing pages for small companies that need them.<br>- 📫 How to reach me altin_rrahmani@live.com</p>
+<p align="left">I'm Altin from Kosovo<br><br>- 🔭 I’m working as a Junior Full Stack Developer at <strong><a href="https://lynkx.eu">LYNKX</a></strong><br>- 📚 I’m currently learning on how to break a monolith application in to a microservice architecture with (laravel, RabbitMQ, docker & kubernetes).<br>- ⚡ In my free time i make landing pages for small companies that need them.<br>- 📫 How to reach me altin_rrahmani@live.com</p>
 
 ###
 
