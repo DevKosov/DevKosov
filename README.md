@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Junior Full-Stack Developer at <strong><a href="https://lynkx.eu">LYNKX</a></strong> and <strong><a href="https://www.diabolocom.com/">Diabolocom</a></strong><br/>- 📚 I’m currently learning on breaking a monolith application in to a microservice architecture with (laravel, RabbitMQ, docker & kubernetes).<br>- ⚡ In my free time i make landing pages for small companies that need them.<br>- 📫 Reach me at <strong>altin_rrahmani@live.com</strong></p>
+<p align="left">- 🔭 I’m working as a Full-Stack Developer at <strong><a href="https://lynkx.eu">LYNKX</a></strong> and <strong><a href="https://www.diabolocom.com/">Diabolocom</a></strong><br/>- 📚 I’m currently learning on breaking a monolith application in to a microservice architecture with (laravel, RabbitMQ, docker & kubernetes).<br>- ⚡ In my free time i make landing pages for small companies that need them.<br>- 📫 Reach me at <strong>altin_rrahmani@live.com</strong></p>
 
 ###
 
